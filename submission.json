@@ -1,0 +1,255 @@
+{
+  "assignments": [
+    {
+      "tx_id": "T26",
+      "channel_id": "Channel_F",
+      "start_time": 12
+    },
+    {
+      "tx_id": "T29",
+      "channel_id": "Channel_F",
+      "start_time": 45
+    },
+    {
+      "tx_id": "T23",
+      "channel_id": "Channel_F",
+      "start_time": 33
+    },
+    {
+      "tx_id": "T37",
+      "channel_id": "Channel_F",
+      "start_time": 33
+    },
+    {
+      "tx_id": "T1",
+      "channel_id": "Channel_F",
+      "start_time": 57
+    },
+    {
+      "tx_id": "T39",
+      "channel_id": "Channel_F",
+      "start_time": 29
+    },
+    {
+      "tx_id": "T15",
+      "channel_id": "Channel_F",
+      "start_time": 2
+    },
+    {
+      "tx_id": "T8",
+      "channel_id": "Channel_F",
+      "start_time": 38
+    },
+    {
+      "tx_id": "T25",
+      "channel_id": "Channel_F",
+      "start_time": 13
+    },
+    {
+      "tx_id": "T4",
+      "channel_id": "Channel_F",
+      "start_time": 51
+    },
+    {
+      "tx_id": "T10",
+      "channel_id": "Channel_F",
+      "start_time": 2
+    },
+    {
+      "tx_id": "T35",
+      "channel_id": "Channel_F",
+      "start_time": 51
+    },
+    {
+      "tx_id": "T7",
+      "channel_id": "Channel_F",
+      "start_time": 42
+    },
+    {
+      "tx_id": "T21",
+      "channel_id": "Channel_F",
+      "start_time": 41
+    },
+    {
+      "tx_id": "T3",
+      "channel_id": "Channel_F",
+      "start_time": 59
+    },
+    {
+      "tx_id": "T45",
+      "channel_id": "Channel_F",
+      "start_time": 60
+    },
+    {
+      "tx_id": "T40",
+      "channel_id": "Channel_F",
+      "start_time": 8
+    },
+    {
+      "tx_id": "T50",
+      "channel_id": "Channel_F",
+      "start_time": 53
+    },
+    {
+      "tx_id": "T34",
+      "channel_id": "Channel_F",
+      "start_time": 35
+    },
+    {
+      "tx_id": "T6",
+      "channel_id": "Channel_S",
+      "start_time": 20
+    },
+    {
+      "tx_id": "T11",
+      "channel_id": "Channel_F",
+      "start_time": 17
+    },
+    {
+      "tx_id": "T41",
+      "channel_id": "Channel_S",
+      "start_time": 49
+    },
+    {
+      "tx_id": "T44",
+      "channel_id": "Channel_F",
+      "start_time": 59
+    },
+    {
+      "tx_id": "T30",
+      "channel_id": "Channel_S",
+      "start_time": 57
+    },
+    {
+      "tx_id": "T13",
+      "channel_id": "Channel_F",
+      "start_time": 32
+    },
+    {
+      "tx_id": "T32",
+      "channel_id": "Channel_S",
+      "start_time": 7
+    },
+    {
+      "tx_id": "T47",
+      "channel_id": "Channel_S",
+      "start_time": 8
+    },
+    {
+      "tx_id": "T17",
+      "channel_id": "Channel_F",
+      "start_time": 24
+    },
+    {
+      "tx_id": "T31",
+      "channel_id": "Channel_S",
+      "start_time": 50
+    },
+    {
+      "tx_id": "T19",
+      "channel_id": "Channel_F",
+      "start_time": 28
+    },
+    {
+      "tx_id": "T46",
+      "channel_id": "Channel_S",
+      "start_time": 16
+    },
+    {
+      "tx_id": "T43",
+      "channel_id": "Channel_S",
+      "start_time": 19
+    },
+    {
+      "tx_id": "T27",
+      "channel_id": "Channel_S",
+      "start_time": 28
+    },
+    {
+      "tx_id": "T20",
+      "channel_id": "Channel_S",
+      "start_time": 33
+    },
+    {
+      "tx_id": "T16",
+      "channel_id": "Channel_S",
+      "start_time": 49
+    },
+    {
+      "tx_id": "T42",
+      "channel_id": "Channel_B",
+      "start_time": 53
+    },
+    {
+      "tx_id": "T49",
+      "channel_id": "Channel_S",
+      "start_time": 10
+    },
+    {
+      "tx_id": "T18",
+      "channel_id": "Channel_S",
+      "start_time": 43
+    },
+    {
+      "tx_id": "T9",
+      "channel_id": "Channel_S",
+      "start_time": 44
+    },
+    {
+      "tx_id": "T36",
+      "channel_id": "Channel_S",
+      "start_time": 4
+    },
+    {
+      "tx_id": "T2",
+      "channel_id": "Channel_S",
+      "start_time": 31
+    },
+    {
+      "tx_id": "T33",
+      "channel_id": "Channel_S",
+      "start_time": 50
+    },
+    {
+      "tx_id": "T12",
+      "channel_id": "Channel_S",
+      "start_time": 42
+    },
+    {
+      "tx_id": "T28",
+      "channel_id": "Channel_S",
+      "start_time": 52
+    },
+    {
+      "tx_id": "T24",
+      "channel_id": "Channel_S",
+      "start_time": 16
+    },
+    {
+      "tx_id": "T5",
+      "channel_id": "Channel_S",
+      "start_time": 27
+    },
+    {
+      "tx_id": "T38",
+      "channel_id": "Channel_S",
+      "start_time": 8
+    },
+    {
+      "tx_id": "T48",
+      "channel_id": "Channel_S",
+      "start_time": 32
+    },
+    {
+      "tx_id": "T22",
+      "channel_id": "Channel_S",
+      "start_time": 1
+    },
+    {
+      "tx_id": "T14",
+      "channel_id": "Channel_B",
+      "start_time": 9
+    }
+  ],
+  "total_system_cost_estimate": 465.15
+}
